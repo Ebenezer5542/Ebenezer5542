@@ -146,7 +146,6 @@ Simple Python projects made to be embedded in backends.
 ## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ebenezer5542&show_icons=true&theme=tokyonight" alt="Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Ebenezer5542&theme=radical&hide_border=true" alt="GitHub Streak" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ebenezer5542&theme=react-dark&hide_border=true" alt="Activity Graph" />
 
 </div>
